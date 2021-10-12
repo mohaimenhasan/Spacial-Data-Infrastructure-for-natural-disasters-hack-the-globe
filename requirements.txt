@@ -3,7 +3,7 @@ tweepy==3.7.0
 tensorflow==1.13.1
 tensorflow-estimator==1.13.0
 numpy==1.16
-opencv-python==4.0.0.21
+opencv-python==4.1.1.26
 google-api-core==1.8.1
 google-api-python-client==1.7.8
 google-auth==1.6.3
