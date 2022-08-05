@@ -18,7 +18,7 @@
     "pug": "2.0.0-beta11"
   },
   "devDependencies": {
-    "mongoose": "^5.4.19",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.18.10"
   }
 }
